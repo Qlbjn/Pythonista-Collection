@@ -1,1 +1,1 @@
-**THIS IS THE GITHUB PAGE**
+Pythonista(by @omz) is a great app that allows you write Python scripts on iOS.
