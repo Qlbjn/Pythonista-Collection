@@ -11,4 +11,6 @@ And I create this page to list the great works in Pythonista.
 ## How to use?
 
 ## List
+* [Pythonista-Tools/Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools)
+* [ywangd/stash](https://github.com/ywangd/stash)
 
