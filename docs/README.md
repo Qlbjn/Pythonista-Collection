@@ -4,6 +4,8 @@ And I create this page to list the great works in Pythonista.
 
 **If you want to help improve this project, you can goto [here](https://github.com/Qlbjn/Pythonista-Collection/blob/master/CONTRIBUTING.md).**
 
+*This project is not finished yet...*
+
 ----
 
 ## How to use?
