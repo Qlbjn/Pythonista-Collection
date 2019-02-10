@@ -7,5 +7,3 @@ List of the Script Repositories for the Pythonista iOS App in GitHub.
 ----
 
 **If you want to help improve this project, you can goto [here](CONTRIBUTING.md).**
-
-*This project is not finished yet...*
