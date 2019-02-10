@@ -1,1 +1,17 @@
-[{"name": "ywangd/stash", "link": "https://github.com/ywangd/stash", "page": ""}, {"name": "Pythonista-Tools/Pythonista-Tools", "link": "https://github.com/Pythonista-Tools/Pythonista-Tools", "page": ""}]
+[
+    {
+        "link": "https://github.com/ywangd/stash",
+        "name": "ywangd/stash",
+        "page": ""
+    },
+    {
+        "link": "https://github.com/Pythonista-Tools/Pythonista-Tools",
+        "name": "Pythonista-Tools/Pythonista-Tools",
+        "page": ""
+    },
+    {
+        "link": "https://github.com/ywangd/pythonista-tools-installer",
+        "name": "ywangd/pythonista-tools-installer",
+        "page": ""
+    }
+]
