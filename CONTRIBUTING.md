@@ -5,7 +5,7 @@
 # Guideline
 You can contribute by folk and pull requests, and you should follow:
 
-1. You should use `scripts/addrepo.py` script to add repositories to the list, which can help you format it easily.
+1. You should use `addrepo.py` script to add repositories to the list, which can help you format it easily.
 2. Add your name to this `CONTRIBUTING.md`, write with this template in the "Contributiors" section:
 
 ```
