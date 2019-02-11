@@ -4,8 +4,6 @@ And I create this page to list the great works in Pythonista.
 
 **If you want to help improve this project, you can goto [here](https://github.com/Qlbjn/Pythonista-Collection/blob/master/CONTRIBUTING.md).**
 
-*This page is not finished yet...*
-
 ----
 
 ## List
@@ -15,3 +13,6 @@ And I create this page to list the great works in Pythonista.
 * [Pythonista-Tools/Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools)
 * [ywangd/stash](https://github.com/ywangd/stash)
 
+
+## Questions about using the app?
+[Pythonista Documentation](http://omz-software.com/pythonista/docs/) can help you, or you can goto the [Wiki](https://github.com/Qlbjn/Pythonista-Collection/wiki) - our unoffical guide.
