@@ -9,6 +9,8 @@ And I create this page to list the great works in Pythonista.
 ----
 
 ## List
+* [viticci/pythonista-scripts](https://github.com/viticci/pythonista-scripts)
+* [tdamdouni/Pythonista](https://github.com/tdamdouni/Pythonista)
 * [ywangd/pythonista-tools-installer](https://github.com/ywangd/pythonista-tools-installer)
 * [Pythonista-Tools/Pythonista-Tools](https://github.com/Pythonista-Tools/Pythonista-Tools)
 * [ywangd/stash](https://github.com/ywangd/stash)

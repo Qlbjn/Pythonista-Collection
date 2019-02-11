@@ -13,5 +13,15 @@
         "link": "https://github.com/ywangd/pythonista-tools-installer",
         "name": "ywangd/pythonista-tools-installer",
         "page": ""
+    },
+    {
+        "link": "https://github.com/tdamdouni/Pythonista",
+        "name": "tdamdouni/Pythonista",
+        "page": ""
+    },
+    {
+        "link": "https://github.com/viticci/pythonista-scripts",
+        "name": "viticci/pythonista-scripts",
+        "page": ""
     }
 ]
